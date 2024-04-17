@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(texture.jpg);
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    background-color: rgba(224, 153, 19, 0.925);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 0 23px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 1.5rem;
+}
+
+nav ul li a:hover {
+    color: rgb(53, 53, 223);
+    font-size: 1.7rem;
+}
+
+.left {
+    font-size: 2rem;
+}
+
+
+.purple {
+    color: rgb(61, 47, 255);
+}
+
+.first {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 40px 0px;
+}
+
+.whatleft img {
+    max-width: 60vw;
+    margin-top: 40px;
+    height: 50vh
+}
+
+.whatright img {
+    max-width: 60vw;
+    margin-top: 40px;
+    height: 50vh
+}
+
+.second {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 40px 0px;
+}
+
+.left img {
+    max-width: 60vw;
+    margin-top: 40px;
+    height: 50vh
+}
+
+.right img {
+    max-width: 60vw;
+    margin-top: 40px;
+    height: 50vh
+}
+
+.third img {
+    max-width: 60vw;
+    margin-left: 25%;
+    margin-top: 40px;
+    height: 50vh
+}
+
+.four {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 40px 0px;
+}
+
+.whenleft img {
+    max-width: 60vw;
+    margin-top: 40px;
+    height: 50vh
+}
+
+.whenright img {
+    max-width: 60vw;
+    margin-top: 40px;
+    height: 50vh
+}
+
+.nine img {
+    margin-left: 10%;
+    margin-top: 40px;
+    height: 1000px;
+    width: 1700px;
+}
+.ten img {
+    margin-left: 10%;
+    margin-top: 40px;
+    height: 1000px;
+    width: 1700px;
+}.two img {
+    margin-left: 10%;
+    margin-top: 40px;
+    height: 1000px;
+    width: 1700px;
+}
